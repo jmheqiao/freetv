@@ -3,210 +3,210 @@
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "/BRncamwlvxMtX/+dphhvg", "kid": "LARfWtsm05HMQc0B8AQW+g"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=654e6f34d6c2106f39c4ff242225b341&ext_start_limit=1749543212&int_start_limit=1749543212&ts=1749543212&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_JUHD_hevc/__op/cenc_m/__f/index.mpd?sig=220d632095eee10ed57275d4646f798b&ext_start_limit=1749586175&int_start_limit=1749586175&ts=1749586175&c=968382415
 #EXTINF:-1 tvg-id="J" tvg-name="翡翠台" tvg-logo="https://assets.livednow.com/logo/翡翠台.png",翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "LS/XsWYbHijeOCaIcrSEgA", "kid": "CVi5xldiLEZaYgXrIlK47Q"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=2404b570e151f23fcc1c75e0c9fca000&ext_start_limit=1749543212&int_start_limit=1749543212&ts=1749543212&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_J_hevc/__op/cenc_m/__f/index.mpd?sig=09f56e6b085bbce608c91f696428efec&ext_start_limit=1749586175&int_start_limit=1749586175&ts=1749586175&c=968382415
 #EXTINF:-1 tvg-id="P" tvg-name="明珠台" tvg-logo="https://assets.livednow.com/logo/明珠台.png",明珠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "j5emKd5oCvk6ZSwxArZYmA", "kid": "4E+s3ZE1Te7jGMZ0mTt0wQ"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=8b3619919a37c66fad253700f71ea1f7&ext_start_limit=1749543213&int_start_limit=1749543213&ts=1749543213&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_P_hevc/__op/cenc_m/__f/index.mpd?sig=aa2d57d1b9d10af6171b96f64a121863&ext_start_limit=1749586176&int_start_limit=1749586176&ts=1749586176&c=968382415
 #EXTINF:-1 tvg-id="B" tvg-name="TVB Plus" tvg-logo="https://xiaotan.860775.xyz/TVB Plus.png",TVB Plus
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XZ2OlX0uRdgYmlb+hmWqqg", "kid": "VmA7Zfodc4O27w5zua5p+g"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=3a4bd5e03f21df968eb6035de28bb4ca&ext_start_limit=1749543213&int_start_limit=1749543213&ts=1749543213&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_B_hevc/__op/cenc_m/__f/index.mpd?sig=a9bae1f6654f1cff39df3bb096f67278&ext_start_limit=1749586176&int_start_limit=1749586176&ts=1749586176&c=968382415
 #EXTINF:-1 tvg-id="C" tvg-name="無線新聞台" tvg-logo="https://assets.livednow.com/logo/無線新聞台.png",無線新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "UVRtHyrwVH8OlhmVtgoyoQ", "kid": "kKC9Adn2y7OYOc2baPwmvA"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=fdb86426c57703d673ab653d85d6d2d1&ext_start_limit=1749543213&int_start_limit=1749543213&ts=1749543213&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C_hevc/__op/cenc_m/__f/index.mpd?sig=a90312dcb01b89f2498fc2231cc511af&ext_start_limit=1749586176&int_start_limit=1749586176&ts=1749586176&c=968382415
 #EXTINF:-1 tvg-id="C3" tvg-name="互動窗 1" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png",互動窗 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "2hYxorKoNsW3o9BEoYpPFg", "kid": "8HNy2yexYtaa35qmEq4zZA"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C3_hevc/__op/cenc_m/__f/index.mpd?sig=9d795ff4af104bda2c0b3a26640aed9d&ext_start_limit=1749543214&int_start_limit=1749543214&ts=1749543214&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C3_hevc/__op/cenc_m/__f/index.mpd?sig=92a426a31ae150ed05582e0f57911d5d&ext_start_limit=1749586177&int_start_limit=1749586177&ts=1749586177&c=968382415
 #EXTINF:-1 tvg-id="C2" tvg-name="互動窗 2" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png",互動窗 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "9995KquJkredcqjQGYfstQ", "kid": "G6iOrN54DHVnJVuLMwJq5Q"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C2_hevc/__op/cenc_m/__f/index.mpd?sig=de167afc0840f5a0e5b6430d62d2033c&ext_start_limit=1749543214&int_start_limit=1749543214&ts=1749543214&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C2_hevc/__op/cenc_m/__f/index.mpd?sig=d168614a9575164897eeac48b683cdab&ext_start_limit=1749586177&int_start_limit=1749586177&ts=1749586177&c=968382415
 #EXTINF:-1 tvg-id="CTVE" tvg-name="娛樂新聞台" tvg-logo="https://assets.livednow.com/logo/娛樂新聞台.png",娛樂新聞台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "olYiDmwr6qgvTKX7pOwflQ", "kid": "b6Dkd1C14vtq35uaCsQxow"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=9dede63f94b8283a50fee91c42e04af0&ext_start_limit=1749543215&int_start_limit=1749543215&ts=1749543215&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CTVE_hevc/__op/cenc_m/__f/index.mpd?sig=8f05fe14cf27600944f031ce369fdbbb&ext_start_limit=1749586177&int_start_limit=1749586177&ts=1749586177&c=968382415
 #EXTINF:-1 tvg-id="TVG" tvg-name="黃金翡翠台" tvg-logo="https://assets.livednow.com/logo/黃金翡翠台.png",黃金翡翠台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XM6VgzVoueMi8XxhOHswbw", "kid": "j+PbGiSWlpSuNEfyZHPrnw"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=b0ace1f2412263af848697343e863ef6&ext_start_limit=1749543215&int_start_limit=1749543215&ts=1749543215&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_TVG_hevc/__op/cenc_m/__f/index.mpd?sig=cb8cb277f68f8175741ddafd6ec2a9fd&ext_start_limit=1749586178&int_start_limit=1749586178&ts=1749586178&c=968382415
 #EXTINF:-1 tvg-id="CWIN" tvg-name="myTV SUPER FREE" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png",myTV SUPER FREE
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "FfUVRYzbUQdFL5Q6ERy+iQ", "kid": "Bze3XuiQbAC7e7j2ZtpyoA"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=782285dfd395cf8efbd5833bbc1fcd2c&ext_start_limit=1749543215&int_start_limit=1749543215&ts=1749543215&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_CWIN_hevc/__op/cenc_m/__f/index.mpd?sig=439d8011ec82eda0912942d05e992a0f&ext_start_limit=1749586178&int_start_limit=1749586178&ts=1749586178&c=968382415
 #EXTINF:-1 tvg-id="C28" tvg-name="28AI智慧賽馬" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png",28AI智慧賽馬
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Ox8xgln88NzNBHQs1nn9JQ", "kid": "G3eKMkHl+ju5fRy5tX+eCQ"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_C28_hevc/__op/cenc_m/__f/index.mpd?sig=a75521f93a47b1537e0d5ba8abf031bc&ext_start_limit=1749543216&int_start_limit=1749543216&ts=1749543216&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_C28_hevc/__op/cenc_m/__f/index.mpd?sig=caabc6859eaf03112804f2c5fecf1e8e&ext_start_limit=1749586179&int_start_limit=1749586179&ts=1749586179&c=968382415
 #EXTINF:-1 tvg-id="CRE" tvg-name="創世電視" tvg-logo="https://xiaotan.860775.xyz/創世電視.png",創世電視
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "tF2RL+xDtbvUGOp+ofvLYA", "kid": "re8AxbqSfQFkKx5vPO3J+w"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=95b36a995e31348465a0d23a09f9dcb4&ext_start_limit=1749543216&int_start_limit=1749543216&ts=1749543216&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CRE_hevc/__op/cenc_m/__f/index.mpd?sig=6e23716578d262fd60cd0b8c3e253bc5&ext_start_limit=1749586179&int_start_limit=1749586179&ts=1749586179&c=968382415
 #EXTINF:-1 tvg-id="PCC" tvg-name="鳳凰衛視中文台" tvg-logo="https://assets.livednow.com/logo/鳳凰中文.png",鳳凰衛視中文台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "6xnH486jTckGReM/mDsVqw", "kid": "e8oHcbqSBe211GfOL98BYg"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=9776b3c36adf0c396178fd5c7d76bc5a&ext_start_limit=1749543217&int_start_limit=1749543217&ts=1749543217&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_PCC_hevc/__op/cenc_m/__f/index.mpd?sig=2112799cba56c525aec4497466416ecf&ext_start_limit=1749586179&int_start_limit=1749586179&ts=1749586179&c=968382415
 #EXTINF:-1 tvg-id="PIN" tvg-name="鳳凰衛視資訊台" tvg-logo="https://assets.livednow.com/logo/鳳凰資訊.png",鳳凰衛視資訊台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "7NyAZaRih7+1jp92Xk7sKw", "kid": "g/fTE638CluXi576BCHOJQ"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=9a49a8992709e09e68a62255f678408e&ext_start_limit=1749543217&int_start_limit=1749543217&ts=1749543217&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PIN_hevc/__op/cenc_m/__f/index.mpd?sig=f5015f41885967095c408d0d0bbd192e&ext_start_limit=1749586180&int_start_limit=1749586180&ts=1749586180&c=968382415
 #EXTINF:-1 tvg-id="PHK" tvg-name="鳳凰衛視香港台" tvg-logo="https://assets.livednow.com/logo/鳳凰香港.png",鳳凰衛視香港台
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "uGhfvs93LmQVRjCCnPMwow", "kid": "zeYuEFbrNhXat6Pv2D9etA"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=c238e67a49578b4a6453bdd723c0a81d&ext_start_limit=1749543217&int_start_limit=1749543217&ts=1749543217&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_PHK_hevc/__op/cenc_m/__f/index.mpd?sig=e97f9f5e55194d0aa211e9634509ddc9&ext_start_limit=1749586180&int_start_limit=1749586180&ts=1749586180&c=968382415
 #EXTINF:-1 tvg-id="CC1" tvg-name="中央電視台綜合頻道 (港澳版)" tvg-logo="https://assets.livednow.com/logo/中央電視台綜合頻道-港澳版.png",中央電視台綜合頻道 (港澳版)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Li6GArbYNczxDuVqmn2Rog", "kid": "5QsY/ufKt2ufKCLireh3Og"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=8ff8e3bcc3c1607e8fa6002fdeae1fd2&ext_start_limit=1749543218&int_start_limit=1749543218&ts=1749543218&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr65/__c/ott_CC1_hevc/__op/cenc_m/__f/index.mpd?sig=12155c2691c892a504a34915b1dcff90&ext_start_limit=1749586181&int_start_limit=1749586181&ts=1749586181&c=968382415
 #EXTINF:-1 tvg-id="CC4" tvg-name="中國中央電視台中文國際頻道" tvg-logo="https://assets.livednow.com/logo/CCTV4-欧洲.png",中國中央電視台中文國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "9O3BJAo+hSZhwGB9tGOm3Q", "kid": "mydi5pEuLzehytHfmvbcbg"}], "type": "temporary"}
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_CC4_h264_1.stream/manifest.mpd?sig=501dc54f3f6b0094f2434b5ad027e678&ext_start_limit=1749543218&int_start_limit=1749543218&ts=1749543218&c=968382415
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_CC4_h264_1.stream/manifest.mpd?sig=e98e41fd7755a65dc9a489f31dbfdfdd&ext_start_limit=1749586181&int_start_limit=1749586181&ts=1749586181&c=968382415
 #EXTINF:-1 tvg-id="CCE" tvg-name="中國中央電視台娛樂頻道" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/8/88/CCTV_Entertainment_Channel_Logo.png",中國中央電視台娛樂頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "IcXkmH0eJV0OFxKArRPYFQ", "kid": "4XNZH3qyXbxH9sBavLuSxw"}], "type": "temporary"}
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_CCE_h264_1.stream/manifest.mpd?sig=608dc92d6369b930de203cadbe55f511&ext_start_limit=1749543218&int_start_limit=1749543218&ts=1749543218&c=968382415
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_CCE_h264_1.stream/manifest.mpd?sig=d271f355bcedc149111ba6821207f78d&ext_start_limit=1749586181&int_start_limit=1749586181&ts=1749586181&c=968382415
 #EXTINF:-1 tvg-id="CCO" tvg-name="中國中央電視台戲曲頻道" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/6/68/CCTV_Opera_Channel_Logo.png",中國中央電視台戲曲頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "8RP8ykqYLlO6L8Mef79uLA", "kid": "MQ7nbolLg2H+/e31x7UJgw"}], "type": "temporary"}
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_CCO_h264_1.stream/manifest.mpd?sig=f37d57cfb6f458089af2445a8494074d&ext_start_limit=1749543219&int_start_limit=1749543219&ts=1749543219&c=968382415
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_CCO_h264_1.stream/manifest.mpd?sig=8dadbdf2c69b1c745922250f1e63e934&ext_start_limit=1749586182&int_start_limit=1749586182&ts=1749586182&c=968382415
 #EXTINF:-1 tvg-id="CGD" tvg-name="CGTN (中國環球電視網)記錄頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-記錄頻道.png",CGTN (中國環球電視網)記錄頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "xXPavKeaF/gXVcDUszOEvA", "kid": "tXCuZ8sGNCixWOsvkcbXfA"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CGD_hevc/__op/cenc_m/__f/index.mpd?sig=a9a50b11c2c316d6d8f2de64134827a9&ext_start_limit=1749543219&int_start_limit=1749543219&ts=1749543219&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CGD_hevc/__op/cenc_m/__f/index.mpd?sig=7ed91e68a8ba621163c56f71a5e33e1d&ext_start_limit=1749586182&int_start_limit=1749586182&ts=1749586182&c=968382415
 #EXTINF:-1 tvg-id="CGE" tvg-name="CGTN (中國環球電視網)英語頻道" tvg-logo="https://assets.livednow.com/logo/中國環球電視網-英語頻道.png",CGTN (中國環球電視網)英語頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "AqQJEVgZ3prNnpB7BT46qA", "kid": "QzGQMni2c5FsxpQKi42efg"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CGE_hevc/__op/cenc_m/__f/index.mpd?sig=ee31160b3ec1ed53e516ff9d3488128d&ext_start_limit=1749543219&int_start_limit=1749543219&ts=1749543219&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_CGE_hevc/__op/cenc_m/__f/index.mpd?sig=dd80d4b8c4b75debc2c49fece516f146&ext_start_limit=1749586183&int_start_limit=1749586183&ts=1749586183&c=968382415
 #EXTINF:-1 tvg-id="YNTV" tvg-name="雲南瀾湄國際衛視" tvg-logo="https://assets.livednow.com/logo/澜湄国际卫视.png",雲南瀾湄國際衛視
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "c48zDi4xnuUevLjy0GFPCg", "kid": "fsK+TsdnsKeyO7nWZcOdqw"}], "type": "temporary"}
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_YNTV_h264_1.stream/manifest.mpd?sig=803ee247ff3950c0bf1116d02b13d25a&ext_start_limit=1749543220&int_start_limit=1749543220&ts=1749543220&c=968382415
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_YNTV_h264_1.stream/manifest.mpd?sig=25a5c65f93cb7cb825397313ddb7f219&ext_start_limit=1749586183&int_start_limit=1749586183&ts=1749586183&c=968382415
 #EXTINF:-1 tvg-id="AHTV" tvg-name="安徽廣播電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/安徽卫视.png",安徽廣播電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "opAJc6tt5nSoU1/RYn+Mzg", "kid": "RgFR0rkadQTG5/zcLls8zA"}], "type": "temporary"}
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_AHTV_h264_1.stream/manifest.mpd?sig=f3eb9176626a6d2910e0ab9cb76fc0f2&ext_start_limit=1749543220&int_start_limit=1749543220&ts=1749543220&c=968382415
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_AHTV_h264_1.stream/manifest.mpd?sig=e10b851e66a3df2060b2c80b27e6506c&ext_start_limit=1749586183&int_start_limit=1749586183&ts=1749586183&c=968382415
 #EXTINF:-1 tvg-id="BJTV" tvg-name="北京電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/北京卫视.png",北京電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "w3O/qy51uXm+77trNwvNwg", "kid": "qJZaGIFTzuViwGe6ZrDw+w"}], "type": "temporary"}
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_BJTV_h264_1.stream/manifest.mpd?sig=552f37ff7aa1293d34c6bafe91c20d9c&ext_start_limit=1749543221&int_start_limit=1749543221&ts=1749543221&c=968382415
+https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_BJTV_h264_1.stream/manifest.mpd?sig=c38c737b8c133bba7aecf954c7bacf2f&ext_start_limit=1749586184&int_start_limit=1749586184&ts=1749586184&c=968382415
 #EXTINF:-1 tvg-id="GXTV" tvg-name="廣西電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/广西卫视.png",廣西電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "Cy+1qxtcnfAx5whhR6D4Uw", "kid": "5dVB24JSeJ8QoF1LJjJVMg"}], "type": "temporary"}
-https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_GXTV_h264_1.stream/manifest.mpd?sig=934a4483bf03b5d1d85d999c65be82fd&ext_start_limit=1749543221&int_start_limit=1749543221&ts=1749543221&c=968382415
+https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_GXTV_h264_1.stream/manifest.mpd?sig=6508e8f070d657ba907561941d44a8c4&ext_start_limit=1749586184&int_start_limit=1749586184&ts=1749586184&c=968382415
 #EXTINF:-1 tvg-id="FJTV" tvg-name="福建海峽衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/海峡卫视.png",福建海峽衛視國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "e+L8sO5e/lL/lbCGbxg6uw", "kid": "PV46L9FExfGWy8udA3tBfQ"}], "type": "temporary"}
-https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_FJTV_h264_1.stream/manifest.mpd?sig=a86508819780c749e3c356c7d71f129c&ext_start_limit=1749543221&int_start_limit=1749543221&ts=1749543221&c=968382415
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_FJTV_h264_1.stream/manifest.mpd?sig=fb9d38efc0370fe9d77f63a866e4b18c&ext_start_limit=1749586184&int_start_limit=1749586184&ts=1749586184&c=968382415
 #EXTINF:-1 tvg-id="HNTV" tvg-name="湖南電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/湖南卫视.png",湖南電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "5QbK96cQJYUOiCPAehsp3A", "kid": "pDiF9cSV485bEWLstcNcAw"}], "type": "temporary"}
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_HNTV_h264_1.stream/manifest.mpd?sig=564a8bb634d8d74cda8dfb35c0884b61&ext_start_limit=1749543222&int_start_limit=1749543222&ts=1749543222&c=968382415
+https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_HNTV_h264_1.stream/manifest.mpd?sig=31df36a4a3eedbdbba9779459023b4e4&ext_start_limit=1749586185&int_start_limit=1749586185&ts=1749586185&c=968382415
 #EXTINF:-1 tvg-id="JSTV" tvg-name="江蘇電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/江苏国际频道.png",江蘇電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "IzmOsh7uEt25qd8d1jc2hw", "kid": "Uof9JBmV97CXWXxDSb6ltQ"}], "type": "temporary"}
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_JSTV_h264_1.stream/manifest.mpd?sig=bf3f67090c9db37edfd4c611440b34f4&ext_start_limit=1749543222&int_start_limit=1749543222&ts=1749543222&c=968382415
+https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_JSTV_h264_1.stream/manifest.mpd?sig=9cd57e4d8b8ee996edf2a62e8a48d77d&ext_start_limit=1749586185&int_start_limit=1749586185&ts=1749586185&c=968382415
 #EXTINF:-1 tvg-id="GBTV" tvg-name="廣東廣播電視台大灣區衛視頻道" tvg-logo="https://assets.livednow.com/logo/大湾区卫视.png",廣東廣播電視台大灣區衛視頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "kUoblEK6I5qqWo9jxuEPgw", "kid": "JQSanXQuJDKeAJ0qigK0vQ"}], "type": "temporary"}
-https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_GBTV_h264_1.stream/manifest.mpd?sig=81beb5b1c353840f4eda0ab73763dd3c&ext_start_limit=1749543222&int_start_limit=1749543222&ts=1749543222&c=968382415
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_GBTV_h264_1.stream/manifest.mpd?sig=2710ce20dd8c15d7848f4da941c9729b&ext_start_limit=1749586185&int_start_limit=1749586185&ts=1749586185&c=968382415
 #EXTINF:-1 tvg-id="ZJTV" tvg-name="浙江電視台國際頻道" tvg-logo="https://assets.livednow.com/logo/浙江卫视.png",浙江電視台國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "U8S2gzDxDlUH08BkdwMDHg", "kid": "h5mUCiqX9euZd1OYO+SP5Q"}], "type": "temporary"}
-https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_ZJTV_h264_1.stream/manifest.mpd?sig=bae629bdabad8ffb10429643d2d1edb4&ext_start_limit=1749543223&int_start_limit=1749543223&ts=1749543223&c=968382415
+https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_ZJTV_h264_1.stream/manifest.mpd?sig=fb5c61f903308731e0a73859aa2672de&ext_start_limit=1749586186&int_start_limit=1749586186&ts=1749586186&c=968382415
 #EXTINF:-1 tvg-id="SZTV" tvg-name="深圳衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/深圳国际频道.png",深圳衛視國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "XRnQVegUs/zFIa/ncuzxEA", "kid": "omWkcZFzQyLcMllsdxiHzA"}], "type": "temporary"}
-https://edgeware-live.edgeware.tvb.com/wozlive12/ulive_m_super/ott_SZTV_h264_1.stream/manifest.mpd?sig=dc05899dd36d4601bd94ed1376336f9f&ext_start_limit=1749543223&int_start_limit=1749543223&ts=1749543223&c=968382415
+https://edgeware-live.edgeware.tvb.com/wozlive21/ulive_m_super/ott_SZTV_h264_1.stream/manifest.mpd?sig=1a943649f6e90e2909d675b14daa7d3f&ext_start_limit=1749586186&int_start_limit=1749586186&ts=1749586186&c=968382415
 #EXTINF:-1 tvg-id="DTV" tvg-name="東方衛視國際頻道" tvg-logo="https://assets.livednow.com/logo/東方衛視國際頻道.png",東方衛視國際頻道
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "9kO6kgTrunpf/Tlwz7x5TA", "kid": "nWoTkVjdH82AfRz8hmfpZQ"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_DTV_hevc/__op/cenc_m/__f/index.mpd?sig=4e1e61de14300e71fdca963e2c7d5ddd&ext_start_limit=1749543224&int_start_limit=1749543224&ts=1749543224&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr87/__c/ott_DTV_hevc/__op/cenc_m/__f/index.mpd?sig=6d307b10cbef3f09b73f52be17894e44&ext_start_limit=1749586186&int_start_limit=1749586186&ts=1749586186&c=968382415
 #EXTINF:-1 tvg-id="SVAR" tvg-name="SUPER獎門人" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png",SUPER獎門人
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "FvdvoZrlGZySDeXPwabKHg", "kid": "l3hpyc1qqASSGi4gckuebA"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_SVAR_hevc/__op/cenc_m/__f/index.mpd?sig=c8411b4a1f0629671aeff34730397c18&ext_start_limit=1749543224&int_start_limit=1749543224&ts=1749543224&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_SVAR_hevc/__op/cenc_m/__f/index.mpd?sig=50729a6e05b791795e892094cf7f9d5a&ext_start_limit=1749586186&int_start_limit=1749586186&ts=1749586186&c=968382415
 #EXTINF:-1 tvg-id="SEYT" tvg-name="SUPER EYT" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png",SUPER EYT
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "uM+YlRuUDcqRdCMEMPrxDQ", "kid": "yD8GGoaFoAcfxixltqt68w"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_SEYT_hevc/__op/cenc_m/__f/index.mpd?sig=9b77ed47483d76c33c736a3c61e22015&ext_start_limit=1749543224&int_start_limit=1749543224&ts=1749543224&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_SEYT_hevc/__op/cenc_m/__f/index.mpd?sig=b896ca6fe409e4a755971b372d44cfa4&ext_start_limit=1749586187&int_start_limit=1749586187&ts=1749586187&c=968382415
 #EXTINF:-1 tvg-id="SFOO" tvg-name="SUPER識食" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png",SUPER識食
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "NXx7Wp0Bwl2OMORsw5beCA", "kid": "I3ARjOPW+v4XUCsBdqv5rg"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_SFOO_hevc/__op/cenc_m/__f/index.mpd?sig=f431c44a197e7c1558d45298e03d7954&ext_start_limit=1749543225&int_start_limit=1749543225&ts=1749543225&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_SFOO_hevc/__op/cenc_m/__f/index.mpd?sig=ff8bc4e4a0c8463a6414351f39414959&ext_start_limit=1749586187&int_start_limit=1749586187&ts=1749586187&c=968382415
 #EXTINF:-1 tvg-id="STRA" tvg-name="SUPER識嘆" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png",SUPER識嘆
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "xnGsWvzNfy0mg55tm5HRMA", "kid": "IGpVmTO1Hvu6Im/pOQQNaA"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_STRA_hevc/__op/cenc_m/__f/index.mpd?sig=80f92c45887b1368e6696a78f727cfc9&ext_start_limit=1749543225&int_start_limit=1749543225&ts=1749543225&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_STRA_hevc/__op/cenc_m/__f/index.mpd?sig=68d1734037cd7a2ad6ef5e209afc591c&ext_start_limit=1749586188&int_start_limit=1749586188&ts=1749586188&c=968382415
 #EXTINF:-1 tvg-id="SMUS" tvg-name="SUPER Music" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png",SUPER Music
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "DEvk6PfM7c7X3gt0NEk75A", "kid": "DTIfxHtJNy33lQDIt6Xp/A"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_SMUS_hevc/__op/cenc_m/__f/index.mpd?sig=3231c52b2e52e168695e866b0a1a6654&ext_start_limit=1749543225&int_start_limit=1749543225&ts=1749543225&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_SMUS_hevc/__op/cenc_m/__f/index.mpd?sig=731f6701bf8c6673fbee310fd4b06f17&ext_start_limit=1749586188&int_start_limit=1749586188&ts=1749586188&c=968382415
 #EXTINF:-1 tvg-id="SGOL" tvg-name="SUPER金曲" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png",SUPER金曲
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "xAGnG2Pfp7qxvjeGBZc8LA", "kid": "2EG/ZQyso79EQaU2roWA1Q"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_SGOL_hevc/__op/cenc_m/__f/index.mpd?sig=0c70002f29443fc1d44b346a40086a6f&ext_start_limit=1749543226&int_start_limit=1749543226&ts=1749543226&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_SGOL_hevc/__op/cenc_m/__f/index.mpd?sig=eab80f293ffacb7a5c347bc18d86cb4e&ext_start_limit=1749586188&int_start_limit=1749586188&ts=1749586188&c=968382415
 #EXTINF:-1 tvg-id="SSIT" tvg-name="SUPER煲劇" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png",SUPER煲劇
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "l+HsEt2l7mRWHgctmCXjsA", "kid": "IDY4ouL9R4YZClg5NkDeVA"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_SSIT_hevc/__op/cenc_m/__f/index.mpd?sig=8ad3b52c93e8a0f073c578c29d486df4&ext_start_limit=1749543226&int_start_limit=1749543226&ts=1749543226&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_SSIT_hevc/__op/cenc_m/__f/index.mpd?sig=b0dea5d8e9179c8d5eb7c0232fb98b59&ext_start_limit=1749586189&int_start_limit=1749586189&ts=1749586189&c=968382415
 #EXTINF:-1 tvg-id="STVM" tvg-name="SUPER劇場" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png",SUPER劇場
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "S1y6bSdVnm8oojJ5HwaIJA", "kid": "tsAgdoUF+mx5EHJrjKMC8A"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_STVM_hevc/__op/cenc_m/__f/index.mpd?sig=855e14342dfa27f150be2e1e67047ec4&ext_start_limit=1749543226&int_start_limit=1749543226&ts=1749543226&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_STVM_hevc/__op/cenc_m/__f/index.mpd?sig=cdcd62a53df0ebcf7c017cd996295b5b&ext_start_limit=1749586189&int_start_limit=1749586189&ts=1749586189&c=968382415
 #EXTINF:-1 tvg-id="SDOC" tvg-name="SUPER話當年" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png",SUPER話當年
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "sL19FJXj35Y64heQVRCU4Q", "kid": "JI7VmkZx2jmzu3H4YHYLkQ"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_SDOC_hevc/__op/cenc_m/__f/index.mpd?sig=debd3fa01eeea165141dc0eda2e35c6f&ext_start_limit=1749543227&int_start_limit=1749543227&ts=1749543227&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr21/__c/ott_SDOC_hevc/__op/cenc_m/__f/index.mpd?sig=a5c4dda721b685402d05f10fcf3c3305&ext_start_limit=1749586189&int_start_limit=1749586189&ts=1749586189&c=968382415
 #EXTINF:-1 tvg-id="SSPT" tvg-name="SUPER Sports" tvg-logo="https://assets.livednow.com/logo/MytvSuper.png",SUPER Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "DSsu2+oE3ej/iA0g4gJhrQ", "kid": "DVfciCGRwiqfgYWrfppimw"}], "type": "temporary"}
-http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_SSPT_hevc/__op/cenc_m/__f/index.mpd?sig=5ff4fc4224e56ba82342c10beba4ede2&ext_start_limit=1749543227&int_start_limit=1749543227&ts=1749543227&c=968382415
+http://edgeware-live.edgeware.tvb.com/__cl/slocalr43/__c/ott_SSPT_hevc/__op/cenc_m/__f/index.mpd?sig=6c945bcb3d2a890f19da787ad3a46edd&ext_start_limit=1749586189&int_start_limit=1749586189&ts=1749586189&c=968382415
 请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=C18请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CTVC请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CDR3请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CCLM请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CTVS请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=TVO请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CCOC请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=KID请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=ZOO请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CNIKO请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CNIJR请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CMAM请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CTHR请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CCCM请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CMC请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CRTX请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CKIX请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=LNH请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=LN4请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=SMS请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CRTE请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CAXN请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CANI请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CJTV请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CTS1请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=FBX请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CMEZ请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=POPC请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CMN1请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CTSN请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CCNA请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CJAZ请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CF24请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CDW1请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CNHK请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=CARI请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=EVT3请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=EVT4请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=EVT5请求失败: 403 Client Error: Forbidden for url: https://user-api.mytvsuper.com/v1/channel/checkout?platform=android_tv&network_code=EVT6
